@@ -5,6 +5,8 @@ The data files are
 - `species_info.csv` contains the different species: their category, scientific name, common name, and if it is protected or not.
 - `observations.csv`contains the observations made in four different national parks of the scientific names of the species.
 
+We use Jupyter Notebook and Python Pandas Dataframes for the tasks.
+
 The key metrics are:
 - Distributions
 - Counts
